@@ -22,10 +22,10 @@ namespace CSharp3
 
 
 
-        //public static double operator +( A, B)
-        //  {
-        //    return A + B;
-        // }
+        /*public static double operator +( A, B)
+        {
+           return A + B;
+        }*/
 
         public static double GetL()
         {
